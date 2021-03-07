@@ -1,2 +1,2 @@
 # pandas_ex
-pandas excercises
+sourse: https://github.com/guipsamora/pandas_exercises
